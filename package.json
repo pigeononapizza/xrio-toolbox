@@ -1,6 +1,6 @@
 {
   "name": "com.xrio.toolbox",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "XRIO Toolbox",
   "description": "Tools to speed up development",
   "unity": "2019.1",
@@ -8,8 +8,7 @@
   "documentationUrl": "https://xrio.io/unity/packages",
   "changelogUrl": "https://xrio.io/unity/changelog.html",
   "licensesUrl": "https://xrio.io/unity/licensing.html",
-  "dependencies": { },
- "keywords": [
+  "keywords": [
     "xrio",
     "toolbox"
   ],
