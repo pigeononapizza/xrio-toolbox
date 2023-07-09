@@ -1,2 +1,3 @@
-# xrio-toolbox
-Unity tools to speed up development
+# XRIO Toolbox Package
+
+The purpose of this package is to speed up development time.
