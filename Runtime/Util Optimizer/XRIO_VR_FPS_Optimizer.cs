@@ -223,7 +223,6 @@ public class XRIO_VR_FPS_Optimizer : MonoBehaviour
     [ShowIf("@isMeshRendererMode && rendererParameters == RendererParameters.ShadowCastingMode "), Button]
     public void ChangeShadowCastModeInChildren()
     {
-
         MeshRenderer[] meshRends = gameObject.GetComponentsInChildren<MeshRenderer>();
         foreach (var mr in meshRends)
         {
@@ -236,6 +235,7 @@ public class XRIO_VR_FPS_Optimizer : MonoBehaviour
             catch (System.Exception e)
             {
                 print("receiveGI not supported on: " + mr.gameObject.name);
+                print(e);
             }
             mr.receiveGI = receiveGI;
 
