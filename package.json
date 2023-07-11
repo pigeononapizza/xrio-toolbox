@@ -1,6 +1,6 @@
 {
   "name": "com.xrio.toolbox",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "XRIO Toolbox",
   "description": "Tools to speed up development",
   "unity": "2019.1",
