@@ -1,8 +1,8 @@
 using UnityEngine;
 
-public class SayHello : MonoBehaviour
+public class SimpleHello : MonoBehaviour
 {
-    public void _SayHello()
+    public void SayHello()
     {
         Debug.Log("<color=green>Hello</color>");
     }

@@ -5,15 +5,15 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-### Changed
-
+<!-- ### Changed
 ### Known Issues
-
 ### Fixed
-
 ### Added
+### Removed -->
 
-### Removed
+## [1.0.3] - 2023-07-10
+
+- Added more SimpleScaleInOut
 
 ## [1.0.2] - 2023-07-08
 
