@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 ### Removed -->
 
+## [1.0.4] - 2023-10-10
+
+- Added more Simple Scripts and Edited GameUI
+
 ## [1.0.3] - 2023-07-10
 
 - Added more SimpleScaleInOut
